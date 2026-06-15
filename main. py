@@ -1,0 +1,3 @@
+print("Hello AI Bot")
+name = input("Enter your name: ")
+print("Hello", name, "Welcome to Elements of AI")
