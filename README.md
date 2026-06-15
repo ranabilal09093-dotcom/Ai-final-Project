@@ -1,17 +1,4 @@
-# Ai-final-Project
-AI Final Project of Elements of AI Course
-AI Final Project - Elements of AI Course
+Ai-final-Project
 
-Project Description
-This is my final project for the Elements of AI course. 
-
-What it does
-A simple Python chatbot that asks for the user's name and greets them.
-
-How to run
-1. Open terminal
-2. Run: python main.py
-3. Enter your name when asked
-
-Technologies used
-Python 3
+##Summary
+This is my first GitHub repository for Elements of AI course. I created a simple Python program that takes user name as input and prints a welcome message.
